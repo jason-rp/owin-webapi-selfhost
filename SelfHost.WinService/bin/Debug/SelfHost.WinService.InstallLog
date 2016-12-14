@@ -1,0 +1,33 @@
+﻿Installing assembly 'D:\Learning\owin-api-es\SelfHost.WinService\bin\Debug\SelfHost.WinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Learning\owin-api-es\SelfHost.WinService\bin\Debug\SelfHost.WinService.InstallLog
+   assemblypath = D:\Learning\owin-api-es\SelfHost.WinService\bin\Debug\SelfHost.WinService.exe
+Rolling back assembly 'D:\Learning\owin-api-es\SelfHost.WinService\bin\Debug\SelfHost.WinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Learning\owin-api-es\SelfHost.WinService\bin\Debug\SelfHost.WinService.InstallLog
+   assemblypath = D:\Learning\owin-api-es\SelfHost.WinService\bin\Debug\SelfHost.WinService.exe
+Installing assembly 'D:\Learning\owin-api-es\SelfHost.WinService\bin\Debug\SelfHost.WinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Learning\owin-api-es\SelfHost.WinService\bin\Debug\SelfHost.WinService.InstallLog
+   assemblypath = D:\Learning\owin-api-es\SelfHost.WinService\bin\Debug\SelfHost.WinService.exe
+Rolling back assembly 'D:\Learning\owin-api-es\SelfHost.WinService\bin\Debug\SelfHost.WinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Learning\owin-api-es\SelfHost.WinService\bin\Debug\SelfHost.WinService.InstallLog
+   assemblypath = D:\Learning\owin-api-es\SelfHost.WinService\bin\Debug\SelfHost.WinService.exe
+Installing assembly 'D:\Learning\owin-api-es\SelfHost.WinService\bin\Debug\SelfHost.WinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Learning\owin-api-es\SelfHost.WinService\bin\Debug\SelfHost.WinService.InstallLog
+   assemblypath = D:\Learning\owin-api-es\SelfHost.WinService\bin\Debug\SelfHost.WinService.exe
+Installing service Owin.SelfHost.WS...
+Service Owin.SelfHost.WS has been successfully installed.
+Creating EventLog source Owin.SelfHost.WS in log Application...
+Committing assembly 'D:\Learning\owin-api-es\SelfHost.WinService\bin\Debug\SelfHost.WinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Learning\owin-api-es\SelfHost.WinService\bin\Debug\SelfHost.WinService.InstallLog
+   assemblypath = D:\Learning\owin-api-es\SelfHost.WinService\bin\Debug\SelfHost.WinService.exe
